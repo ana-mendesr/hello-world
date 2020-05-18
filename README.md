@@ -23,4 +23,4 @@ A relevância desse site é grande, pois, conforme disse a vice-presidente e chi
 
 - [x] Finalizar meu repositório
 - [ ] Deixar o link para esse repositório no issue
-- [ ] Criar uma issue no repositório hello-world de um colega.
+- [ ] Criar uma issue no repositório hello-world do @
