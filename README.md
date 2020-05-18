@@ -19,6 +19,8 @@ Como **desvantagem**, temos apenas:
 A relevância desse site é grande, pois, conforme disse a vice-presidente e chief strategy adviser do Open Data Institute (ODI), Jenni Thenison (2020):
 > Os dados nos dizem o que a sociedade e as economias precisam. Eles nos dizem onde as pessoas estão, onde o vírus pode estar se espalhando e como enfrentar os desafios sem precedentes que diferentes comunidades, indústrias e nações estão enfrentando, agora e nos próximos meses. Tornar os dados abertos, através da publicação na internet, em planilhas, sem restrições de acesso, é a melhor maneira de garantir que eles possam ser usados pelas pessoas que mais precisam.
 
+:blue_heart:
+
 - [x] Finalizar meu repositório
 - [ ] Deixar o link para esse repositório no issue
 - [ ] Criar uma issue no repositório hello-world de um colega.
